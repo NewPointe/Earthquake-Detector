@@ -1,6 +1,7 @@
 Earthquake Detector
 
 
-Throw on some googly eyes and you're good to go!
+Print out the Word doc, throw on some googly eyes, stick it on the wall. You're good to go!
 
-(obviously this is a joke)
+
+(obviously this is a joke, it probably won't really detect earthquakes)
